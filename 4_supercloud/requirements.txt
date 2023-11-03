@@ -1,0 +1,9 @@
+anndata
+deepprofiler
+h5py
+imageio
+scanpy
+scikit-image
+scikit-learn
+scipy
+umap-learn
