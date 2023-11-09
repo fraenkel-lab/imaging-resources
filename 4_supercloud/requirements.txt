@@ -1,4 +1,5 @@
 anndata
+cellpose
 deepprofiler
 h5py
 imageio
