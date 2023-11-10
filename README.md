@@ -5,7 +5,7 @@
 2. [Imaging Computer](https://github.com/fraenkel-lab/imaging-resources/wiki/2.-Imaging-Computer)
 3. [NAS (Network Attached Storage)](https://github.com/fraenkel-lab/imaging-resources/wiki/3.-NAS-(Network-Attached-Storage))
 4. [SuperCloud](https://github.com/fraenkel-lab/imaging-resources/wiki/4.-SuperCloud)
-5. [Analysis](https://github.com/fraenkel-lab/imaging-resources/wiki/5.-Analysis)
+5. [Analysis Pipeline](https://github.com/fraenkel-lab/imaging-resources/wiki/5.-Analysis-Pipeline)
 
 ## Announcements
 Mailing list: fraenkel-imaging
